@@ -18,5 +18,5 @@ This repo is meant to track my progress and help me revise what I’ve learned. 
 📚 Topics I'm Covering
 
 ✅ Basics
-- [x] Variables and data types
-- [x] Operators and expressions
+- [1] Variables and data types
+- [2] Operators and expressions
