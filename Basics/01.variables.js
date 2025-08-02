@@ -1,22 +1,32 @@
-const accountId = 144553
-let accountEmail = "bhumika@gmail.com"
-var accountPassword = "12345"
-accountCity = "Jaipur"
-let accountState;
+// Declaring variables
+let name = "Alien";          // string
+let age = 21;                // number
+let isStudent = true;        // boolean
+let marks = null;            // null
+let address;                 // undefined
 
-// accountId = 2 // not allowed
+// Logging values and types
+console.log("Name:", name);
+console.log("Age:", age);
+console.log("Is student:", isStudent);
+console.log("Marks:", marks);
+console.log("Address:", address);
 
+// typeof operator
+console.log("Type of name:", typeof name);
+console.log("Type of age:", typeof age);
+console.log("Type of isStudent:", typeof isStudent);
 
-accountEmail = "bhumi@gmail.com"
-accountPassword = "21212121"
-accountCity = "Bengaluru"
+//--------------------------------------------------------------------------------------------------------
 
-console.log(accountId);
+const accountId = 12345
+let accountname = "john"
+let accountemail = "john@gmail.com"
+accountcity = "bangalore"
+accountstate = "Karnataka"
 
-/*
-Prefer not to use var
-because of issue in block scope and functional scope
-*/
-
-
-console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
+//var accountname = "alien" ...[cannot be used bcz of issuse in block scope and functional scope]
+// to display output
+console.log(accountId)
+ // to display output in table form
+console.table([accountId,accountemail,accountname,accountcity,accountstate])
