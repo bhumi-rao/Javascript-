@@ -18,9 +18,9 @@ This repo is meant to track my progress and help me revise what I’ve learned. 
 📚 Topics I'm Covering
 
 ✅ Basics
-    1. Variables and data types
-    2. Operators and expressions
-    3. Arrays and loops
-    4. Functions (declaration, expression, arrow)
-    5. Object basics
-    6. Conditional statements
+1. Variables and data types
+2. Operators and expressions
+3. Arrays and loops
+4. Functions (declaration, expression, arrow)
+5. Object basics
+6. Conditional statements
